@@ -20,6 +20,11 @@
 2. Create a free account.
 3. Explore projects or start your own using the Scratch editor.
 
+## 🎮 Games
+
+1. Oscar Time
+2. Ivy's Hardest Game [Real Fun]
+
 ## 📚 Resources
 
 - [Scratch Wiki](https://en.scratch-wiki.info/)
