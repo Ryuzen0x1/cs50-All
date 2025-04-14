@@ -1,4 +1,5 @@
 # CS50-All
+This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. <br>
 The journey of CS50 and Artificial Intelligence with Python in a single repo. Hoping for consistency.
 
 ## 📌 Disclaimer
