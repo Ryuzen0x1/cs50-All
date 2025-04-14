@@ -1,19 +1,17 @@
 # Scratch (scratch.mit.edu)
 
-[Scratch](https://scratch.mit.edu) is a free, block-based visual programming language and online community developed by the MIT Media Lab. It is designed primarily for children aged 8–16, but it's used by people of all ages to create games, animations, stories, and interactive projects.
+[Scratch](https://scratch.mit.edu) is a free, block-based visual programming language and online community developed by the MIT Media Lab. It is designed primarily for learning logic in codes for ages 8-16, but it's used by people of all ages to create games, animations, stories, and interactive projects [like CS50].
 
 ## 🌟 Features
 
 - **Block-Based Coding**: Drag-and-drop code blocks make programming accessible and fun.
 - **Creative Projects**: Users can build animations, games, and interactive stories.
 - **Community Sharing**: Share projects, comment on others, remix code, and collaborate.
-- **Educational Tool**: Widely used in classrooms to teach coding, logic, and storytelling.
 
-## 👩‍💻 Who Uses Scratch?
+## 👩‍💻 Why Use Scratch?
 
-- Students learning to code
-- Educators in K–12 settings
-- Hobbyists and creators of all ages
+- Learn to code
+- Visualize code blocks and logics
 - Anyone interested in storytelling through interactivity
 
 ## 📌 Getting Started
