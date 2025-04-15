@@ -11,7 +11,7 @@ int main(void)
 }
 ```
 
-Then build the source code using `make hello` command. The extension is automatically detected in C. Run the code with this `./hello`, just like running a `bash` script
+Then compile the source code using `make hello` command. The extension is automatically detected in C. Run the code with this `./hello`, just like running a `bash` script
 
 ## Header files
 
