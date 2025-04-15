@@ -26,4 +26,18 @@ hello.c:3:5: note: include the header <stdio.h> or explicitly provide a declarat
 make: *** [<builtin>: hello] Error 1
 ```
 
-It's a scary looking error. If you dont include a header file your source code doesn't get access to libraries, some codes that someone else wrote for you to use as base. CS50 has a user-friendly version of the [man-pages](https://manual.cs50.io/) for ***C*** header files to learn accordingly.
+It's a scary looking error. If you dont include a header file your source code doesn't get access to libraries, some codes that someone else wrote for you to use as base. CS50 has a user-friendly version of the [man-pages](https://manual.cs50.io/) for ***C*** header files to learn accordingly. As it is slightly complicated to get user inputs in ***C*** we will use `cs50.h` header file also to get basic inputs.
+
+```c
+#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    string answer = get_string("What's your name? ");
+    printf("Hello, %s\n", answer);
+}
+```
+
+- As ***C*** is a fairly low level programming language we have to specify the type (`string`, `int`, etc) of variable we are going to use.
+- The `%s` is a placeholder to be replaced by the value of the variable, which is the input from user.
