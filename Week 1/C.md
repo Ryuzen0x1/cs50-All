@@ -26,4 +26,4 @@ hello.c:3:5: note: include the header <stdio.h> or explicitly provide a declarat
 make: *** [<builtin>: hello] Error 1
 ```
 
-It's a scary looking error.
+It's a scary looking error. If you dont include a header file your source code doesn't get access to libraries, some codes that someone else wrote for you to use as base. CS50 has a user-friendly version of the [man-pages](https://manual.cs50.io/) for ***C*** header files to learn accordingly.
